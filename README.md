@@ -35,6 +35,7 @@
   <a href="https://samara.hh.ru/resume/1a1be107ff0bebb1250039ed1f6d7249425234"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="90" height="30"/> </a>
 </p>
 
+https://cdn.icon-icons.com/icons2/2011/PNG/512/envelope_mail_letter_icon_123486.png
 
 <div id="badges">
     <a href="https://t.me/n_kolesnik_v" target="_blank">
@@ -43,14 +44,9 @@
     <a href="https://vk.com/kolesnik_nv" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://career.habr.com/nikitakolesnik21" target="_blank" style="background-color: white; padding: 5px; border-radius: 50%;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M4.22 16.96v4.81h15.56v-4.8h3V21.8H1.27V16.97h3v4.8zM22.37 1.44v4.8h-3V2.64H3.8v3.61H.25V2.64h2.76v3.6h18.36V1.44h1.25z"/>
-  </svg>
-</a>
-
-
- </div>
+ <a href="https://i@nikitakolesnik.ru" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/2011/PNG/512/envelope_mail_letter_icon_123486.png" width="40" height="40" alt="mail" />
+</div>
 
 
 <p align="center">Made with ❤️ by Никита</p>
