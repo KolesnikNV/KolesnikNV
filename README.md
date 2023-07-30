@@ -6,10 +6,13 @@
 
 <!-- Статистика -->
 ## 📊 Статистика
-<p align="center" style="background-color: #4B0082;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" style="background-color: #4B0082; color: white; width: 300px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" style="background-color: #4B0082; color: white; width: 300px; height: 200px;" />
-</p>
+<p align="center">
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+<img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
 
 
