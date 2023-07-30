@@ -6,8 +6,8 @@
 
 ## 📊 Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" height="195" />
 </p>
 
 ## 🛠️ Инструменты, которые я использую
