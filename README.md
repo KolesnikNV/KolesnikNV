@@ -4,13 +4,19 @@
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
----
+
 ## 📊 Статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" height="155" />
-</p>
----
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Инструменты, которые я использую
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -26,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
----
+
 ## 📫 Как со мной связаться
 <p align="center">
   <a href="nikitakolesnik.ru"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="60" height="20"/> </a>
