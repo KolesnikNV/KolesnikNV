@@ -1,22 +1,13 @@
-<!-- Заголовок -->
 # Привет, меня зовут Никита! 👋
 
-<!-- Описание -->
 Привет! Я начинающий Python разработчик, и это мой GitHub профиль. Рад приветствовать вас! 🚀
 
-<!-- Статистика -->
 ## 📊 Статистика
 <p align="center">
-
 <img src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats" />
 <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+</p>
 
-
-
-<!-- Инструменты -->
 ## 🛠️ Инструменты, которые я использую
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -45,13 +36,17 @@
 </p>
 
 
-<div id="badges">
-    <a href="https://t.me/n_kolesnik_v" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+<div id="badges" style="background-color: #4B0082; padding: 10px; text-align: center;">
+    <a href="mailto:youremail@example.com" target="_blank" style="margin-right: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" alt="E-mail" />
     </a>
-    <a href="https://vk.com/kolesnik_nv" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    <a href="https://habr.com/ru/users/kolesniknv/posts/" target="_blank" style="margin-right: 20px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="40" height="40" alt="Habr" />
     </a>
-  </div>
+    <a href="https://hh.ru/resume/yourusername" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111702.png" width="40" height="40" alt="HeadHunter" />
+    </a>
+</div>
+
 
 <p align="center">Made with ❤️ by Никита</p>
