@@ -3,7 +3,9 @@
 
 <!-- Описание -->
 Привет! Я начинающий Python разработчик, и это мой GitHub профиль. Рад приветствовать вас! 🚀
-
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 <!-- Статистика -->
 ## 📊 Статистика
 <p align="center">
