@@ -1,31 +1,38 @@
+<!-- Заголовок -->
 # Привет, меня зовут Никита! 👋
 
+<!-- Описание -->
 Привет! Я начинающий Python разработчик, и это мой GitHub профиль. Рад приветствовать вас! 🚀
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
+<!-- Статистика -->
 ## 📊 Статистика
 <p align="center">
-  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-  <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" height="195" />
 </p>
 
+<!-- Инструменты -->
 ## 🛠️ Инструменты, которые я использую
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <a href="https://www.getpostman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="40" height="40"/> </a>
 </p>
+
+<!-- Технологии -->
+## 💻 Технологии, которые я использую
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="40" height="40"/> </a>
+  <a href="https://golang.org/" target="_blank"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" width="40" height="40"/> </a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="40" height="40"/> </a>
+</p>
+
 
 ## 📫 Как со мной связаться
 <p align="center">
