@@ -9,8 +9,8 @@
 <!-- Статистика -->
 ## 📊 Статистика
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" width="100" height="50" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" alt="webDev's Github stats" width="100" height="50" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" width="400" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" alt="webDev's Github stats" width="400" height="150" />
 </p>
 
 
