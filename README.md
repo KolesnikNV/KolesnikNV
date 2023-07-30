@@ -35,7 +35,7 @@
   <a href="https://samara.hh.ru/resume/1a1be107ff0bebb1250039ed1f6d7249425234"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="90" height="30"/> </a>
 </p>
 
-https://icon-icons.com/icon/habr-logo/248126
+
 <div id="badges">
     <a href="https://t.me/n_kolesnik_v" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
@@ -43,7 +43,7 @@ https://icon-icons.com/icon/habr-logo/248126
     <a href="https://vk.com/kolesnik_nv" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://career.habr.com/nikitakolesnik21"> <img src="https://icon-icons.com/icon/habr-logo/248126" alt="Habr" width="40" height="40" /> </a>
+    <a href="https://career.habr.com/nikitakolesnik21"> <img src="https://img.shields.io/badge/Habr-FF5722?style=for-the-badge&logo=habr&logoColor=white" alt="Habr" width="40" height="40" /> </a>
  </div>
 
 
