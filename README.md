@@ -4,6 +4,7 @@
 
 <h3 align="left">Свяжись со мной:</h3>
 <p align="left">
+  https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 </p>
 
 <h3 align="left">Технологии:</h3>
