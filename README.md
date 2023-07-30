@@ -8,8 +8,8 @@
 ## 📊 Статистика
 <p align="center">
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-<img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats" />
+<img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
