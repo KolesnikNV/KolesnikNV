@@ -29,8 +29,8 @@
   <a href="mailto:i@nikitakolesnik.ru"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="60" height="20"/> </a>
   <a href="https://t.me/n_kolesnik_v"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="60" height="20"/> </a>
   <a href="https://wa.me/79277254761"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="60" height="20"/> </a>
-  <a href="https://habr.com/ru/users/ваш_ник_на_habr/"> <img src="https://img.shields.io/badge/Habr-FF5722?style=for-the-badge&logo=habr&logoColor=white" alt="Habr" width="60" height="20"/> </a>
-  <a href="https://hh.ru/resume/ваш_ник_на_hh"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="60" height="20"/> </a>
+  <a href="https://career.habr.com/nikitakolesnik21"> <img src="https://img.shields.io/badge/Habr-FF5722?style=for-the-badge&logo=habr&logoColor=white" alt="Habr" width="60" height="20"/> </a>
+  <a href="https://samara.hh.ru/resume/1a1be107ff0bebb1250039ed1f6d7249425234"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="60" height="20"/> </a>
 </p>
 
 <p align="center">Made with ❤️ by Никита</p>
