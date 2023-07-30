@@ -8,14 +8,10 @@
 </p>
 <!-- Статистика -->
 ## 📊 Статистика
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&count_private=true&hide=contribs&theme=radical)
-
-<!-- Языки программирования -->
-## 💻 Некоторые из моих любимых языков программирования
-![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_пользователя&layout=compact&theme=radical)
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" />
+</p>
 
 <!-- Инструменты -->
 ## 🛠️ Инструменты, которые я использую
