@@ -7,8 +7,8 @@
 <!-- Статистика -->
 ## 📊 Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=dark&background=000000" alt="Статистика языков" style="background-color: black; width: 300; height: 200;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=dark&background=000000" alt="Статистика GitHub" style="background-color: black; width: 300; height: 200;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=dark&background=000000" alt="Статистика языков" style="background-color: black; />
+  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=dark&background=000000" alt="Статистика GitHub" style="background-color: black; height="195px"" />
 </p>
 
 
