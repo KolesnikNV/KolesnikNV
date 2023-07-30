@@ -1,7 +1,5 @@
-<!-- Заголовок -->
 # Привет, меня зовут Никита! 👋
 
-<!-- Описание -->
 Привет! Я начинающий Python разработчик, и это мой GitHub профиль. Рад приветствовать вас! 🚀
 
 ## 📊 Статистика
@@ -18,7 +16,6 @@
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </p>
 
-<!-- Технологии -->
 ## 💻 Технологии, которые я использую
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -31,7 +28,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-<!-- Связь и социальные сети -->
 ## 📫 Как со мной связаться
 <p align="center">
   <a href="mailto:i@nikitakolesnik.ru"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="60" height="20"/> </a>
@@ -41,5 +37,4 @@
   <a href="https://hh.ru/resume/ваш_ник_на_hh"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="60" height="20"/> </a>
 </p>
 
-<!-- Подпись -->
 <p align="center">Made with ❤️ by Никита</p>
