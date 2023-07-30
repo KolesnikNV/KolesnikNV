@@ -1,33 +1,42 @@
-<h1 align="center">Привет! Меня зовут Никита.</h1>
-<h3 align="center">Я начинающий разработчик. Свой путь начал с курсов от Яндекс.Практикум "Python-разработчик". В настоящее время продолжаю своё обучение и активно ищу работу!</h3>
+<!-- Заголовок -->
+# Привет, меня зовут Никита! 👋
 
+<!-- Описание -->
+Привет! Я начинающий Python разработчик, и это мой GitHub профиль. Рад приветствовать вас! 🚀
 
-<h3 align="left">Свяжись со мной:</h3>
-<p align="left">
+<!-- Статистика -->
+## 📊 GitHub Статистика
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical)
 
+<!-- Языки программирования -->
+## 💻 Некоторые из моих любимых языков программирования
+![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical)
+
+<!-- Технологии и инструменты -->
+## 🚀 Технологии и инструменты, которые я использую
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-<h3 align="left">Технологии:</h3>
-<p align="left"> 
-<!-- Языки -->
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<!-- Фреймворки и библиотеки -->
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<!-- Базы данных -->
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<!-- Все остальное -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+<!-- Связь и социальные сети -->
+## 📫 Как связаться со мной
+- Электронная почта: [ваша_электронная_почта@gmail.com](mailto:ваша_электронная_почта@gmail.com)
+- Telegram: [@ваш_ник_в_telegram](https://t.me/ваш_ник_в_telegram)
+- WhatsApp: [+ваш_номер_телефона](https://wa.me/ваш_номер_телефона)
+- Habr: [ваш_ник_на_habr](https://habr.com/ru/users/ваш_ник_на_habr/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkoles&show_icons=true&locale=en&layout=compact" alt="nkoles" /></p>
+<!-- Поддержка -->
+## ❤️ Поддержите меня
+Если вы нашли мои проекты полезными или интересными, пожалуйста, поддержите меня звездочкой ⭐️. Это поможет мне продолжать работу над ними и создавать новые проекты!
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkoles&" alt="nkoles" /></p>
+<!-- Подпись -->
+<p align="center">Made with ❤️ by Никита</p>
