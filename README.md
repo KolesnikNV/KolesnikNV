@@ -8,26 +8,24 @@
 ## 📊 GitHub Статистика
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical)
 
-<!-- Фреймворки и библиотеки -->
-## 🚀 Фреймворки и библиотеки
+## 💻 Stack
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <!-- Добавьте другие иконки для языков программирования, которые вы используете -->
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-</p>
+  <!-- Добавьте другие иконки для фреймворков и библиотек, которые вы используете -->
 
-<!-- Базы данных -->
-## 🛢️ Базы данных
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</p>
 
-<!-- Программы -->
-## 🛠️ Программы
-<p align="center">
+
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-</p>
+  <!-- Добавьте другие иконки для программ, которые вы используете -->
+
 
 <!-- Связь и социальные сети -->
 ## 📫 Как со мной связаться
@@ -39,10 +37,6 @@
   <a href="https://hh.ru/resume/ваш_ник_на_hh"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="130" height="20"/> </a>
   <!-- Добавьте другие иконки для связи здесь, если есть -->
 </p>
-
-<!-- Поддержка -->
-## ❤️ Поддержите меня
-Если вы нашли мои проекты полезными или интересными, пожалуйста, поддержите меня звездочкой ⭐️. Это поможет мне продолжать работу над ними и создавать новые проекты!
 
 <!-- Подпись -->
 <p align="center">Made with ❤️ by Никита</p>
