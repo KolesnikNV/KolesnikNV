@@ -14,9 +14,9 @@
 <!-- Инструменты -->
 ## 🛠️ Инструменты, которые я использую
 <p align="center">
-  <a href="https://www.getpostman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="800" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" width="90" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="100" height="40"/> </a>
+  <a href="https://www.getpostman.com/" target="_blank"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="80" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" width="80" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" width="80" height="40"/> </a>
 </p>
 
 <!-- Технологии -->
