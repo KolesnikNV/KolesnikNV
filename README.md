@@ -28,15 +28,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
+
 <!-- Связь и социальные сети -->
 ## 📫 Как со мной связаться
 <p align="center">
-  <a href="mailto:ваша_электронная_почта@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="20"/> </a>
-  <a href="https://t.me/ваш_ник_в_telegram"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="100" height="20"/> </a>
-  <a href="https://api.whatsapp.com/send?phone=ваш_номер_телефона"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="100" height="20"/> </a>
+  <a href="mailto:i@nikitakolesnik.ru"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="60" height="20"/> </a>
+  <a href="https://t.me/@n_kolesnik_v"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="60" height="20"/> </a>
+  <a href="https://api.whatsapp.com/send?phone=+79277254761"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="60" height="20"/> </a>
   <a href="https://habr.com/ru/users/ваш_ник_на_habr/"> <img src="https://img.shields.io/badge/Habr-FF5722?style=for-the-badge&logo=habr&logoColor=white" alt="Habr" width="60" height="20"/> </a>
-  <a href="https://hh.ru/resume/ваш_ник_на_hh"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="130" height="20"/> </a>
-  <!-- Добавьте другие иконки для связи здесь, если есть -->
+  <a href="https://hh.ru/resume/ваш_ник_на_hh"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="60" height="20"/> </a>
 </p>
 
 <!-- Подпись -->
