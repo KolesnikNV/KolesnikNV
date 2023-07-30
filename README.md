@@ -43,8 +43,8 @@
     <a href="https://vk.com/kolesnik_nv" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://career.habr.com/nikitakolesnik21" target="_blank" style="background-color: white; padding: 5px; border-radius: 50%;">
-  <img src="https://cdn.icon-icons.com/icons2/3912/PNG/512/habr_logo_icon_248126.png" alt="Habr" width="40" height="40" style="background-color: white; border-radius: 50%;" />
+    <a href="https://career.habr.com/nikitakolesnik21" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/habr_logo_icon_145210.png" alt="Habr" width="40" height="40" />
 </a>
 
  </div>
