@@ -8,10 +8,11 @@
 </p>
 <!-- Статистика -->
 ## 📊 Статистика
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats" width="450" height="200" style="vertical-align: top;" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" alt="webDev's Github stats" width="450" height="200" style="vertical-align: top;" />
-</p>
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваше_имя_пользователя&show_icons=true&count_private=true&hide=contribs&theme=radical)
+
+<!-- Языки программирования -->
+## 💻 Некоторые из моих любимых языков программирования
+![Топ языков программирования](https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_пользователя&layout=compact&theme=radical)
 
 
 
