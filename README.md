@@ -33,8 +33,7 @@
 
 ## 📫 Как со мной связаться
 <p align="left">
- <a href="https://vk.com/kolesnik_nv"> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvk.com%2Fkolesnik_nv&query=https%3A%2F%2Fvk.com%2Fkolesnik_nv
-" alt="VK" width="80" height="30"/> </a>
+ <a href="https://vk.com/kolesnik_nv"> <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK" width="80" height="30"/> </a>
   <a href="nikitakolesnik.ru"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="30"/> </a>
   <a href="https://t.me/n_kolesnik_v"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="80" height="30"/> </a>
   <a href="https://wa.me/79277254761"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="80" height="30"/> </a>
