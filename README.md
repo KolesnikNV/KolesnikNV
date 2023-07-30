@@ -5,10 +5,8 @@
 Привет! Я начинающий Python разработчик, и это мой GitHub профиль. Рад приветствовать вас! 🚀
 
 ## 📊 Статистика
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" />
-</p>
-<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" />
 </p>
 
