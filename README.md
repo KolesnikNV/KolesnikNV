@@ -36,17 +36,14 @@
 </p>
 
 
-<div id="badges" style="background-color: #4B0082; padding: 10px; text-align: center;">
-    <a href="mailto:youremail@example.com" target="_blank" style="margin-right: 20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="40" height="40" alt="E-mail" />
+<div id="badges">
+    <a href="https://t.me/n_kolesnik_v" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://habr.com/ru/users/kolesniknv/posts/" target="_blank" style="margin-right: 20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" width="40" height="40" alt="Habr" />
+    <a href="https://vk.com/kolesnik_nv" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://hh.ru/resume/yourusername" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111702.png" width="40" height="40" alt="HeadHunter" />
-    </a>
-</div>
+ </div>
 
 
 <p align="center">Made with ❤️ by Никита</p>
