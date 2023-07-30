@@ -26,17 +26,6 @@
 
 
 ## 📫 Как со мной связаться
-<p align="left">
- <a href="https://vk.com/kolesnik_nv"> <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK" width="60" height="30"/> </a>
-  <a href="nikitakolesnik.ru"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="30"/> </a>
-  <a href="https://t.me/n_kolesnik_v"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="85" height="30"/> </a>
-  <a href="https://wa.me/79277254761"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="85" height="30"/> </a>
-  <a href="https://career.habr.com/nikitakolesnik21"> <img src="https://img.shields.io/badge/Habr-FF5722?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"width="80" height="30" /> </a>
-  <a href="https://samara.hh.ru/resume/1a1be107ff0bebb1250039ed1f6d7249425234"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="90" height="30"/> </a>
-</p>
-
-https://cdn.icon-icons.com/icons2/2011/PNG/512/envelope_mail_letter_icon_123486.png
-
 <div id="badges">
     <a href="https://t.me/n_kolesnik_v" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
