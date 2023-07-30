@@ -1,5 +1,5 @@
 # Привет, меня зовут Никита! 👋
----
+
 Привет! Я начинающий Python разработчик, и это мой GitHub профиль. Рад приветствовать вас! 🚀
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -35,5 +35,5 @@
   <a href="https://career.habr.com/nikitakolesnik21"> <img src="https://img.shields.io/badge/Habr-FF5722?style=for-the-badge&logo=habr&logoColor=white" alt="Habr" width="60" height="20"/> </a>
   <a href="https://samara.hh.ru/resume/1a1be107ff0bebb1250039ed1f6d7249425234"> <img src="https://img.shields.io/badge/HeadHunter-00B24D?style=for-the-badge&logo=hh.ru&logoColor=white" alt="HeadHunter" width="60" height="20"/> </a>
 </p>
----
+
 <p align="center">Made with ❤️ by Никита</p>
