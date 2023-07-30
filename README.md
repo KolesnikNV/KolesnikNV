@@ -9,8 +9,8 @@
 <!-- Статистика -->
 ## 📊 Статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" style="background-color: black; width: 300px; height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" style="background-color: black; width: 300px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=radical" alt="Статистика языков" style="background-color: black; width: 300; height: 200;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KolesnikNV&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="Статистика GitHub" style="background-color: black; width: 300; height: 200;" />
 </p>
 
 
