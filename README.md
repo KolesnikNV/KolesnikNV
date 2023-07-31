@@ -13,9 +13,9 @@
 🏋️‍♂️ Также я активно занимаюсь спортом и стремлюсь к здоровому образу жизни.
 
 🌟 Всегда готов к новым вызовам и интересным проектам! Давайте свяжемся и сотворим что-то вместе! 🚀
-<h2>
-  <img src="gifs/coderman.gif" alt="Гифка" style="float: centre;" /> Привет! Я Никита, программист и страстный ученик   
-</h2>
+<div style="text-align: center;">
+  <img src="gifs/coderman.gif" alt="Гифка" style="display: inline-block;" />
+</div>
 
 ## 📊 Статистика
 <p align="center">
