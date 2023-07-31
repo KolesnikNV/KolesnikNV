@@ -20,9 +20,10 @@
 
 ## 📊 Статистика
 <p align="center">
-<img height="175px" src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats"/>
-<img height="175px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" width="48%" />
+  <img height="175px" width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats"/>
+  <img height="175px" width="48%" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" />
 </p>
+
 
 ## 🛠️ Инструменты, которые я использую
 <p align="left">
