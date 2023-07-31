@@ -1,4 +1,5 @@
 <div style="display: flex; align-items: center;">
+  <img src="gifs/octo.gif" alt="Гифка" width="40" height="40" style="margin-left: auto;" />
   <h1 style="flex: 1;">👋 Привет! Я Никита, программист и страстный ученик.</h1>
   <img src="gifs/octo.gif" alt="Гифка" width="40" height="40" style="margin-left: auto;" />
 </div>
