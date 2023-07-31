@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   <img src="gifs/octo.gif" alt="Гифка" width="25" height="23" style="float: left; margin-right: 10px;" /> Привет! Меня зовут Никита
 </h1>
 
