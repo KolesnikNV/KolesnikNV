@@ -12,9 +12,10 @@
 🏋️‍♂️ Также я активно занимаюсь спортом и стремлюсь к здоровому образу жизни.
 
 🌟 Всегда готов к новым вызовам и интересным проектам! Давайте свяжемся и сотворим что-то вместе! 🚀
-<h5>
-  <img src="gifs/coderman.gif" alt="Гифка"style="float: centre;/> 
-</h5>
+
+<img src="gifs/coderman.gif" alt="Гифка"style="float: centre;/> 
+
+
 ## 📊 Статистика
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats" />
