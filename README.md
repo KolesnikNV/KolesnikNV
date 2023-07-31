@@ -19,17 +19,16 @@
 </p>
 
 ## 📊 Статистика
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border: 0;">
   <tr>
-    <td style="border: none;">
+    <td style="border: 0; padding: 0;">
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
-    <td style="border: none;">
+    <td style="border: 0; padding: 0;">
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
-
 
 
 ## 🛠️ Инструменты, которые я использую
