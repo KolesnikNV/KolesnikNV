@@ -14,9 +14,10 @@
 
 🌟 Всегда готов к новым вызовам и интересным проектам! Давайте свяжемся и сотворим что-то вместе! 🚀
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="gifs/coderman.gif" alt="Гифка"/>
-</div>
+<p align="center">
+  <img src="gifs/coderman.gif" alt="Coderman GIF">
+</p>
+
 
 
 ## 📊 Статистика
