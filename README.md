@@ -21,7 +21,7 @@
 ## 📊 Статистика
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=KolesnikNV&theme=dark&background=000000" alt="webDev's Github stats" width="48%" />
-<img height="165px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" width="48%" />
+<img height="185px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KolesnikNV&layout=compact&theme=vision-friendly-dark" width="48%" />
 </p>
 
 ## 🛠️ Инструменты, которые я использую
