@@ -55,7 +55,7 @@
     <a href="https://vk.com/kolesnik_nv" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
- <a href="mailto:i@nikitakolesnik.ru" target="_blank">
+ <a href="mailto:00nk@bk.ru" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/2011/PNG/512/envelope_mail_letter_icon_123486.png" width="40" height="40" alt="mail" />
 </div>
 
